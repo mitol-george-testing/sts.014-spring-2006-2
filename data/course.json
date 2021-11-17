@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "92e797ef-d94c-a78e-991f-4ab72112a8b5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles and Practice of Science Communication",
+  "course_description": "This course helps in developing skills as science communicators through projects and analysis of theoretical principles. Case studies explore the emergence of popular science communication over the past two centuries and consider the relationships among authors, audiences and media. Project topics are identified early in the term and students work with MIT Museum staff. Projects may include physical exhibits, practical demonstrations, or scripts for public programs.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.014",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
